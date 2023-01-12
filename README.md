@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sofia</h1>
-<h3 align="center">A passionate data engineer from Portugal</h3>
+<h3 align="center">A persevering data engineer from Portugal</h3>
 
 - 👀 I’m interested in **Python** programming, data analysis and **data engineering**
-- 🌱 I’m currently practicing my data science skills in small machine learning projects (kaggle challenges)
+- 🌱 I’m currently practicing my data science skills in small machine learning projects (kaggle/drivendata challenges)
 - 💞️ I’m looking to collaborate on open source projects that requires data science skills, especially **data engineering** 
 
 - 📫 How to reach me: sofia.m.matias@gmail.com
