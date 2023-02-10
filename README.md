@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on open source projects that requires data science skills, especially **data engineering** 
 
 - 📫 How to reach me: sofia.m.matias@gmail.com
-- 📄 Know more about my past experiences and projects: https://sofiamatias.site
+- 📄 Know more about my past experiences and projects: https://sofiamatias.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
