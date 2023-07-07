@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sofia</h1>
 <h3 align="center">A persevering data engineer from Portugal</h3>
 
-- 👀 I’m interested in **Python** programming, data analysis and **data engineering**
-- 🌱 I’m currently practicing my data science skills in small machine learning projects (kaggle/drivendata challenges)
-- 💞️ I’m looking to collaborate on open source projects that requires data science skills, especially **data engineering** 
+- 👀 I’m interested in **Python** programming, data analysis and **data engineering** and related tools
+- 🌱 I’m working on data engineering projects at Passion Consulting. I'm currently working in a project as Power BI consultant/administrator.
+- 💞️ I’m looking to collaborate on open source projects that requires **data engineering** skills.
+- :orange_book: I'm currently studying for Google Data Engineering and Google Data Analytics Certificates
+
 
 - 📫 How to reach me: sofia.m.matias@gmail.com
 - 📄 Know more about my past experiences and projects: https://sofiamatias.com
