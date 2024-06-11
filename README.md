@@ -8,7 +8,7 @@
 
 
 - 📫 How to reach me: sofia.m.matias@gmail.com
-- 📄 Know more about my past experiences and projects: https://sofiamatias.com
+- 📄 Know more about my professional experience and projects: [Sofia MAtias CV](https://cv-sofiamatias.streamlit.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
