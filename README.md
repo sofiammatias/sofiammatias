@@ -3,12 +3,12 @@
 
 - 👀 I’m interested in **Python** programming, data analysis and **data engineering** and related tools
 - 🌱 I’m working on data engineering projects at Passion Consulting. I'm currently working in a project as Power BI consultant/administrator.
-- 💞️ I’m looking to collaborate on open source projects that requires **data engineering** skills.
+- 💞️ I’m looking to collaborate on open source projects that require **data engineering** skills.
 - :orange_book: I'm currently studying for Google Data Engineering and Google Data Analytics Certificates
 
 
 - 📫 How to reach me: sofia.m.matias@gmail.com
-- 📄 Know more about my professional experience and projects: [Sofia MAtias CV](https://cv-sofiamatias.streamlit.app/)
+- 📄 Know more about my professional experience and projects: [Sofia Matias CV](https://cv-sofiamatias.streamlit.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
